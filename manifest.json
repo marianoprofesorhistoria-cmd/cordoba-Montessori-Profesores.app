@@ -2,6 +2,7 @@
 {
   "short_name": "Montessori",
   "name": "Córdoba Montessori - Portal Docente",
+  "description": "Gestión Educativa Integral Córdoba Montessori",
   "icons": [
     {
       "src": "https://api.dicebear.com/7.x/initials/svg?seed=CM&backgroundColor=ac3d38",
@@ -16,9 +17,10 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#ac3d38",
   "background_color": "#f3f7fa",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "scope": "."
 }
